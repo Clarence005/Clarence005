@@ -1,66 +1,61 @@
-<h1 align="center">Hey there, awesome people! 👋 <br> Welcome to the Dev Corner of <code>&lt;/Clarence Samuel&gt;</code> 🚀</h1>
+<h1 align="center">Hey there, awesome people! 👋<br>Welcome to the Dev Corner of <code>&lt;/Clarence Samuel&gt;</code> 🚀</h1>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=clarence-samuel.visitor-badge" alt="Profile views" />
-  <a href="https://github.com/clarence-samuel">
-    <img src="https://img.shields.io/github/followers/clarence-samuel?label=Follow&style=social" alt="GitHub Followers" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&height=60&lines=👨‍💻+Full-Stack+Web+%26+App+Developer;💡+Passionate+about+AI,+Innovation,+and+Tech-for-Good;🚀+Let's+build+cool+stuff+together!" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&vCenter=true&multiline=true&width=600&lines=👨‍💻+Software+Developer+with+a+Creative+Edge;🔥+AI+and+Mobile+App+Explorer;🎯+Mission%3A+Solve+Real-World+Problems+with+Code;🤝+Let's+Build+Something+Awesome+Together!" />
-</p>
+---
 
-
-<div align="center">
-  <samp>
-    Hi! I'm <b>Clarence Samuel</b> 👨‍💻 <br>
-    Passionate Software Developer | Mobile App Enthusiast | AI Explorer 🚀
-  </samp>
-</div>
-
-<br>
-
-<h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="100px"> </h2>
-
-<img align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="55%">
-
+### 👨‍💻 About Me
 <ul>
-  <li> 🔭 I’m currently working on real-time health monitoring apps, sign language interpreters, and crop disease detection using AI.</li>
-  <li> 🌱 Exploring advanced ML models, Firebase, Flutter, React Native, and Kotlin for Wear OS apps.</li>
-  <li> 👯 Looking to collaborate on impactful open-source projects and hackathons.</li>
-  <li> 💬 Ask me about: Flutter, React Native, Firebase, Python, Java, AI/ML, or anything tech!</li>
-  <li> 🏆 Winner & Contributor: Smart India Hackathon, TechGrad Hackathon, Zenith Hackathon</li>
-  <li> 📫 How to reach me: clarence.samuel.dev@gmail.com</li>
+  <li>🚀 Passionate Software Developer focused on real-world problem solving</li>
+  <li>🌐 Skilled in Full-Stack Web & Mobile Development (MERN, Flutter, React Native, Firebase)</li>
+  <li>🤖 Exploring AI/ML for real-world applications</li>
+  <li>💡 Believes in building with purpose and creative collaboration</li>
+  <li>📫 Reach me at: <a href="mailto:clarencesamuel008@gmail.com">clarencesamuel008@gmail.com</a></li>
 </ul>
 
 ---
 
-### ⚡ Tech Stack & Tools:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-</p>
-
----
-
-### 📈 GitHub Stats
+### 🔗 Connect with Me
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=clarence-samuel&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=clarence-samuel&theme=radical" />
+  <a href="https://www.linkedin.com/in/clarence-samuel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/clarence_samuel/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="mailto:clarencesamuel008@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-### ✨ Fun Fact:
-- I can build an entire cross-platform app in a weekend 😎🔥
-- I love turning ideas into apps that solve **real-world problems**!
+### ⚡ Tech Stack
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
+</p>
+
+---
+
+### ✨ Fun Fact  
+☕ I turn coffee into code and weekends into working apps.  
+🌱 Always shipping something new!
