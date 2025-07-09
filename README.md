@@ -1,15 +1,16 @@
-<p align="center">
-  <img width="200" src="https://avatars.githubusercontent.com/u/your-github-id" alt="Clarence Samuel Avatar">
-</p>
-
-<h1 align="center"> Hello Fellow &lt;/Developers&gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1 align="center">Hey there, awesome people! 👋 <br> Welcome to the Dev Corner of <code>&lt;/Clarence Samuel&gt;</code> 🚀</h1>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=clarence-samuel.visitor-badge" alt="Profile views">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=clarence-samuel.visitor-badge" alt="Profile views" />
   <a href="https://github.com/clarence-samuel">
-    <img src="https://img.shields.io/github/followers/clarence-samuel?label=Follow&style=social" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/clarence-samuel?label=Follow&style=social" alt="GitHub Followers" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&vCenter=true&multiline=true&width=600&lines=👨‍💻+Software+Developer+with+a+Creative+Edge;🔥+AI+and+Mobile+App+Explorer;🎯+Mission%3A+Solve+Real-World+Problems+with+Code;🤝+Let's+Build+Something+Awesome+Together!" />
+</p>
+
 
 <div align="center">
   <samp>
